@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <Resource id="sample" type="javax.sql.DataSource">#Tue Jun 21 00:36:44 CET 2022
+jdbcDriver=org.postgresql.Driver
+password=\    
+userName=postgres
+jdbcUrl=jdbc\:postgresql\://localhost\:5432/postgres
+</Resource>
+</resources>
